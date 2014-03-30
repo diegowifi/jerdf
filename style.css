@@ -1,13 +1,16 @@
 *{
-	padding: 0;
 	margin: 0;
+	padding: 0;
 }
 
 body{
 	background-color: #353535;
+	overflow:hidden;
 }
 
 video{
-	width: 140%;
-	height: 100%;
+	width: 115%;
+	height: 122%;
+	margin-left: -7%;
+	margin-top: -4%;
 }
