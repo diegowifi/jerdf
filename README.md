@@ -1,4 +1,4 @@
-Video looping
+Reproducción infinita del video "Jesucristo el robot del futuro"
 =====
 
-A website to host a looping video
+Se inicia el video en el momento en el que accedes a la página.
